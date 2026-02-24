@@ -1,0 +1,83 @@
+DAY-1:
+DATE: 02-02-26
+TOPIC-1) Created PRD for the Project. 
+
+DAY-2:
+DATE: 03-02-26
+TOPIC-1) Understanding the PRD and how to proceed forward with the project.
+
+DAY-3:
+DATE: 04-02-26
+TOPIC:1) Making correction in the PRD and again presenting it to the mentor
+
+DAY-4:
+DATE: 05-02-26
+TOPIC:1) Adding some ideas to the PRD that we will be including in the project.
+
+DAY-5:
+DATE: 06-02-26
+TOPIC:1) Verified again with the mentor and asked for any suggestion from the mentor. 
+
+DAY-6:
+DATE: 07-02-26
+TOPIC:1) Applying for the approval for the PRD and explaing the PRD to the mentor.
+
+DAY-7:
+DATE: 08-02-26
+TOPIC:1) Working on Features breakdown or the workflow of the project.
+
+DAY-8:
+DATE: 09-02-26
+TOPIC:1) Understanding how the features are going to work and making it a simple structure to             explain the workflow/features.
+
+DAY-9:
+DATE: 10-02-26
+TOPIC:1) Done with the features breakdown and made a flow-chart on it.
+
+DAY-10:
+DATE: 11-02-26
+TOPIC:1) Understanding how the API is going to work and discussing it with the mentor.
+
+DAY-11:
+DATE: 12-02-26
+TOPIC:1) Made a simple flow chart that explains the role of API in the project and how it is              going to be implemented.
+
+DAY-12:
+DATE: 13-02-26
+TOPIC:1) Understanding what is HLD Diagram and discussing it with the mentor how to create one            for our Music Player.
+
+DAY-13:
+DATE: 14-02-16
+TOPIC:1) Understood what is HLD Diagram and started building it for our project.
+
+DAY-14:
+DATE: 15-02-26
+TOPIC:1) Made HLD Diagram and reviewed through our mentor.
+
+DAY-15:
+DATE: 16-02-26
+TOPIC:1) Understand what is LLD Diagram and started building it for our project.
+
+DAY-16:
+DATE: 17-02-26
+TOPIC:1) Made LLD Diagram and reviewed through our mentor.
+
+DAY-17:
+DATE: 18-02-26
+TOPIC:1) Working on Data-Flow Diagram for the Music Player.
+
+DAY-18:
+DATE: 19-02-26
+TOPIC:1) Created one diagram that explains the Data-Flow of the project.
+
+DAY-19:
+DATE: 20-02-26
+TOPIC:1) Understanding what is  Database schema/ ER diagram and how to make it for our project.
+
+DAY-20:
+DATE: 21-02-26
+TOPIC:1) Made an Database schema/ ER diagram for our Music Player.
+
+DAY-21:
+DATE: 22-02-26
+TOPIC:1) Working on Deployment Plan for the project.
